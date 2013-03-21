@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DIR="/Users/cmcquilkin/Documents/RPA\ Work/Corporate\ Website\ FY13\ Redesign\ -\ Scoping/CompetitiveComarisonScreenshots/"
+DIR="PathToWorkingDirectoryGoesHere"
 SUFFIX="todump"
 
 for i in "$DIR"/*.$SUFFIX
